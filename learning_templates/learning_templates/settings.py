@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-mtg$g=)x54e^1!!z)g(e$v!j3jhw=88uf^j831e35-4-9n)fu6
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["june2kk.pythonanywhere.com"]
 
 
 # Application definition
